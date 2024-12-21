@@ -9,6 +9,7 @@ If you'd like to contribute for your geography or language please create the app
 | Geography | Language | Link              |
 |-----------|----------|-------------------|
 | India     | English  | [en_in](en_in.md) |
+| Türkiye   | Turkish  | [tr_tr](tr_tr.md) |
 
 ## Credits
 
@@ -27,6 +28,8 @@ If you'd like to contribute for your geography or language please create the app
 - VU3CER - Dhiru
 
 - VU3GLJ - Bharath
+
+- YM1KAC - Amateur Radio Community (Turkish Translation & Localization)
 
 ## References
 
